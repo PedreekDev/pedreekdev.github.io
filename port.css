@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(216, 216, 216);
+}
+h2 {
+    text-align: center;
+}
+
+#foto {
+    float: left;    
+    margin-left: 50px;
+    padding: 10px;
+    background-color: black;
+    position: relative;
+
+}
+
+#descricao {
+    float: right;   
+    left: 30px;
+    margin-right: 450px;
+    position: relative;
+}
+
+#conteudo {
+    clear: both;
+    margin-left: 50px;
+    margin-top: 200px;
+}
+
+#skills {
+    margin-top: 380px;
+}
+
+ul li:nth-child(odd) {
+    font-style: italic;
+}
