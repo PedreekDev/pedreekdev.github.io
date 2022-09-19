@@ -1,0 +1,82 @@
+#apresentacao {
+    display: inline-block; 
+    padding: 0 20px; 
+    width: 1080px;   
+    width: auto; 
+}
+
+#foto {       
+    margin-left: 0px;
+    padding: 10px;
+    background-color: black;
+}
+
+#conteudo {
+    clear: both;
+    margin-left: 30px;
+    
+}
+
+#skills {
+    margin-top: 90px;
+}
+
+body {
+    background-color: rgb(216, 216, 216);
+}
+
+h2 {
+    text-align: center;
+}
+
+
+ul li:nth-child(odd) {
+    font-style: italic;
+}
+
+.fotinha{
+    padding: 15px;      
+    float: left;
+}
+
+.descricao{      
+    float: right;    
+}
+
+
+h2 {
+    color: rgb(29, 12, 12);
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+    padding: 20px;
+    margin: 0;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(29, 12, 12);
+}
+
+em {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p  {
+    background-color: azure;
+}
+
+/* fontes skills */
+
+.um {
+    font-size: 25px;
+}
+
+.dois {
+    font-size: 20px;
+}
+
+.tres {
+    font-size: 15px;
+}
+
+
